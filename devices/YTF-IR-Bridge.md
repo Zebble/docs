@@ -1,5 +1,6 @@
 * [YTF](https://www.amazon.com/gp/product/B07H46LJZK)
-* [BaKEN](https://www.amazon.co.uk/gp/product/B07ZQSJ4VD) - Identical to the YTF
+* [BaKEN](https://www.amazon.co.uk/gp/production/B07ZQSJ4VD) - Identical to the YTF
+* [BlitzWolf BW-RC1](https://m.blitzwolf.com/BlitzWolfBW-RC1-WiFi-Smart-IR-Controller-with-360-Transmission,-APP-Control,-Works-with-Alexa,-Automatic-Identification,-DIY-Pairing-and-Slim-Design-p-409.html) - Identical to the YTF
 * [Tuya](https://www.aliexpress.com/item/a/32951202513.html)
 
 ## Flashing
